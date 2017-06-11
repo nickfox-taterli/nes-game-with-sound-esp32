@@ -10,7 +10,7 @@ Play NES Game with sound, emulate a NES to full speed, albeit with some framedro
 Warning
 -------
 
-Not any unsupported by anyone.
+I can not tell you what and how any more.
 
 
 Compiling
