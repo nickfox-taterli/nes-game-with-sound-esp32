@@ -44,13 +44,18 @@ Controller
 To control the NES, connect TM1638 with key as such:
 
     =====  =====
-    Pin    GPIO
+    TM1638 GPIO
     =====  =====
-    STB(TM1638)    4
-    CLK(TM1638)    16
-    DIO(TM1638)    17
-    RST(On Board)    27
+    STB    4
+    CLK    16
+    DIO    17
     =====  =====
+	
+    =====  =====
+    OtherKey GPIO
+    =====  =====
+    RST    27
+    =====  =====	
 
 Also connect the power and ground lines. TM1638 Only Support 5V VCC.
 
