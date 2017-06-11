@@ -76,3 +76,7 @@ ROM
 ---
 This NES emulator does not come with a ROM. Please supply your own and flash to address 0xF0000. You can use the flashrom.sh script as a template for doing so.But ROM must be smaller than your (Flash Size - 1MB).
 
+Other
+----------
+Prohibit commercialization,except for 52Pi.
+
