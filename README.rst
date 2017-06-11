@@ -1,3 +1,7 @@
+Quick Download:
+====================================================================
+https://github.com/nickfox-taterli/nes-game-with-sound-esp32/releases
+
 ESP32 Game Playes with NES
 ====================================================================
 
