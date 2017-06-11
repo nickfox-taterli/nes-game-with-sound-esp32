@@ -43,13 +43,15 @@ Controller
 
 To control the NES, connect TM1638 with key as such:
 
-    =====  =======================
+    ======  =======================
     TM1638    GPIO
-    =====  =======================
-    STB    4
-    CLK    16
-    DIO    17
-    =====  =======================
+    ======  =======================
+    STB     4
+    CLK     16
+    DIO     17
+    ======  =======================
+
+If you want to get software reset key,connect Button with key as such:
 	
     =====  =====
     K      GPIO
